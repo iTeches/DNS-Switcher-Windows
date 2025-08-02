@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.spec
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Windows thumbnail cache
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*.
+*.njsproj
+*.sln
+*.sw?
+
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib

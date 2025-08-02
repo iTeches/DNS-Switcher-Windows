@@ -1,0 +1,4 @@
+# DNS Switcher Requirements
+# Required dependencies for DNS Switcher
+wmi==1.5.1
+# This project also uses built-in Python modules like subprocess and standard library modules
